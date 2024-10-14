@@ -17,13 +17,13 @@ main {
 }
 #parent {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 .contents {
   border: 3px solid rgb(238, 204, 204);
   flex-basis: 25%;
-  margin: 10px 15px;
-  padding: 20px 0;
+  margin: 20px 0px;
+  padding: 10px 15px;
   text-align:center
 }
 h2 {
